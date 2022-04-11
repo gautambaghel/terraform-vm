@@ -31,7 +31,7 @@ provider "aws" {
 # Configure the Microsoft Azure Provider
 provider "azurerm" {
   features {}
-  subscription_id = "befd0888-7a90-428e-bec4-cd7750a6a82c"
+  subscription_id = "14692f20-9428-451b-8298-102ed4e39c2a"
 }
 
 resource "azurerm_resource_group" "example" {
